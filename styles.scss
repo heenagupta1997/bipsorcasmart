@@ -1,0 +1,38 @@
+/* Do Not Edit or Touch this file */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+}
+
+p {
+  margin: 0;
+}
+
+/* Do Not Edit or Touch this file */
+
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+.product-item-content .ant-upload-list {
+  display: inline !important;
+}
+
+.product-item-content .ant-upload-list-picture-card-container {
+  width: 45%;
+}
+.daitalpage .ant-upload.ant-upload-select-picture-card {
+  width: 104px;
+  height: 39px !important  ;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
